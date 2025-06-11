@@ -48,7 +48,7 @@
 #### 🧑‍⚖️ [Indian Law AI Assistant](https://github.com/kiranimmadi2/Indian-law-AI-assistant)
 > Legal AI assistant that analyzes Indian case law, generates user-friendly legal advice, and predicts outcomes using LLMs.
 
-#### 💰 QueryAI (FinTech)
+#### 💰 QueryAI 
 > Transforms plain-English user queries into optimized SQL queries and dynamic charts. Ideal for non-technical business users analyzing financial or sales data.
 
 #### 🏗️ ArtEco App
