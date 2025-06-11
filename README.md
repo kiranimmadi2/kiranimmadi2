@@ -5,7 +5,6 @@
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Code-Python-yellow?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Code-Java-blue?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/Code-R-276DC3?style=flat&logo=r" />
   <img src="https://img.shields.io/badge/Frontend-HTML5-E34F26?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/Frontend-CSS3-1572B6?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/Frontend-JS-F7DF1E?style=flat&logo=javascript" />
@@ -15,7 +14,6 @@
   <img src="https://img.shields.io/badge/Code-Flutter-02569B?style=flat&logo=flutter" />
   <img src="https://img.shields.io/badge/Code-Dart-0175C2?style=flat&logo=dart" />
   <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat&logo=firebase" />
-  <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=flat&logo=supabase" />
 
   <!-- AI / ML -->
   <img src="https://img.shields.io/badge/AI-Scikit--learn-F7931E?style=flat&logo=scikitlearn" />
@@ -31,9 +29,7 @@
   <!-- Databases and Cloud -->
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?style=flat&logo=googlecolab" />
-  <img src="https://img.shields.io/badge/Tool-Hadoop-66CCFF?style=flat&logo=apachehadoop" />
   <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/Automation-n8n-FF6A00?style=flat&logo=n8n" />
