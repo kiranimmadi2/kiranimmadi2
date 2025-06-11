@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Frontend-CSS3-1572B6?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/Frontend-JS-F7DF1E?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Framework-Bootstrap-7952B3?style=flat&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/UI-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/UI-jQuery-0769AD?style=flat&logo=jquery" />
 
   <!-- Mobile and App Dev -->
   <img src="https://img.shields.io/badge/Code-Flutter-02569B?style=flat&logo=flutter" />
@@ -39,11 +37,11 @@
   <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/Automation-n8n-FF6A00?style=flat&logo=n8n" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
+
 
   <!-- Soft Skills & Learning -->
-  <img src="https://img.shields.io/badge/Skill-Innovative_Thinking-lightgrey?style=flat" />
-  <img src="https://img.shields.io/badge/Skill-Teamwork-lightgrey?style=flat" />
-  <img src="https://img.shields.io/badge/Skill-Problem_Solving-lightgrey?style=flat" />
+  
 </p>
 
 
@@ -60,36 +58,7 @@
 
 ---
 
-### 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery
-- **Languages:** Python, Dart, Java, R
-- **App Dev:** Flutter, Firebase, Supabase
-- **AI/ML:** scikit-learn, TensorFlow, LangChain, Pandas, NumPy, Seaborn, Power BI
-- **Databases:** MongoDB, MySQL, SQL
-- **Tools & Platforms:** GitHub, VS Code, Google Colab, Project IDX, AWS SageMaker, Hadoop
-- **Soft Skills:** Innovative Thinking, Problem Solving, Team Collaboration
-
----
-
-### 🚀 Featured Projects
-
-#### 🧠 [QueryAI](https://github.com/kiranimmadi2/QueryAI)
-> AI chatbot that translates user questions into SQL and displays insights through dynamic visualizations.
-
-#### 📊 [Mobile Sales Analysis](https://github.com/kiranimmadi2/Mobile_Sales_Analysis)
-> End-to-end dashboard analyzing sales data for mobile devices, highlighting trends and business opportunities.
-
-#### ✉️ [GenAI Email Writer](https://github.com/kiranimmadi2/GenAi-Email-Writter)
-> Personalized email generation using GenAI for efficient communication.
-
-#### 📰 [News Summarizer](https://github.com/kiranimmadi2/News-Summarization)
-> Aggregates and summarizes news with support for multi-language sentiment analysis.
-
-#### 🏗️ [ArtEco App](https://github.com/kiranimmadi2)
-> Flutter app for architecture students to interact with 3D models using WebXR and Firebase authentication.
-
----
 
 ### 📚 Certifications
 
