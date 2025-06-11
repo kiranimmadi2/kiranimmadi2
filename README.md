@@ -3,11 +3,23 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Flutter-blue?style=flat&logo=flutter" />
-  <img src="https://img.shields.io/badge/Code-Firebase-orange?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/Code-Dart-0175C2?style=flat&logo=dart" />
   <img src="https://img.shields.io/badge/Code-Python-yellow?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Code-Firebase-orange?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/AI-TensorFlow-FF6F00?style=flat&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/AI-LangChain-009485?style=flat&logo=openai" />
   <img src="https://img.shields.io/badge/Tech-GenAI-purple?style=flat&logo=openai" />
   <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Database-SQL-003B57?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=flat&logo=streamlit" />
+  <img src="https://img.shields.io/badge/Workflow-N8N-orange?style=flat&logo=n8n" />
+  <img src="https://img.shields.io/badge/Data-Pandas-150458?style=flat&logo=pandas" />
+  <img src="https://img.shields.io/badge/Data-Numpy-013243?style=flat&logo=numpy" />
+  <img src="https://img.shields.io/badge/Tool-PowerBI-F2C811?style=flat&logo=powerbi" />
+  <img src="https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat&logo=visualstudiocode" />
 </p>
+
 
 ---
 
