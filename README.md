@@ -59,13 +59,15 @@ Aspiring software engineer with a solid understanding of AI and software develop
 - ☁️ AWS cloud & GitOps for scalable AI deployment
 
 ---
+## 🌐 Socials
 
-### 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-immadi)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiranimmadi2)
+[![Gmail](https://img.shields.io/badge/Gmail-%234285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranimmadi2@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919916398527)
 
-- 💼 [LinkedIn](https://linkedin.com/in/kiran-immadi)
-- 🌐 [GitHub](https://github.com/kiranimmadi2)
-- 📧 Email: kiranimmadi2@gmail.com
-- 📱 WhatsApp: [+91 99163 98527](https://wa.me/919916398527)
+
+
 
 ---
 
