@@ -59,7 +59,7 @@ Aspiring software engineer with a solid understanding of AI and software develop
 - ☁️ AWS cloud & GitOps for scalable AI deployment
 
 ---
-## 🌐 Socials
+## 🌐 lets Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-immadi)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiranimmadi2)
