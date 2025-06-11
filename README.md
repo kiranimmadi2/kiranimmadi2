@@ -13,12 +13,11 @@
 
 ### 🌟 About Me
 
-- 💻 Final-year B.Tech CSE student passionate about **AI, automation, and mobile app development**
-- ⚙️ Currently building **legal AI tools**, automating **web scraping pipelines**, and exploring **GenAI + LangChain**
-- 📱 Proficient in **Flutter**, comfortable with **Firebase**, and learning **React Native**
-- 🌐 Experience in developing cloud-based apps using **AWS, Supabase**, and **Node.js**
-- 🧠 Interested in **AI agents**, **RAG pipelines**, and **ML in legal and healthcare domains**
-- 📍 Based in Bangalore, India
+- 💻 Final-year B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**
+- 🔧 Passionate about building apps using **Flutter**, automating workflows, and exploring **GenAI**
+- 📊 Recently worked on FinTech & legal AI applications involving **LangChain, Firebase, and ML**
+- 🌍 Based in Bangalore, open to internships and remote collaboration
+- 🚀 Fast learner, great with teams, and love turning ideas into working software
 
 ---
 
@@ -26,30 +25,36 @@
 
 - **Languages:** Python, Dart, JavaScript
 - **Mobile Dev:** Flutter, React Native (learning)
-- **AI/ML:** LangChain, OpenAI APIs, Transformers, TTS/STT
-- **Tools:** Playwright, Selenium, Git, VSCode, Postman
-- **Cloud:** Firebase, Supabase, AWS (EC2, S3, Lambda), GitHub Actions
+- **AI/ML:** LangChain, Transformers, Scikit-learn, TensorFlow
+- **Tools:** Playwright, Selenium, Git, VSCode, Firebase, Postman
+- **Cloud & DBs:** Firebase, Supabase, MongoDB, AWS, SQL
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🧑‍⚖️ [Indian Law AI Assistant](https://github.com/kiranimmadi2/Indian-law-AI-assistant)
-> Legal AI assistant that analyzes Indian case law, generates user-friendly advice, and predicts case outcomes using GenAI.
+> Legal AI assistant that analyzes Indian case law, generates user-friendly legal advice, and predicts outcomes using LLMs.
+
+#### 💰 QueryAI (FinTech)
+> Transforms plain-English user queries into optimized SQL queries and dynamic charts. Ideal for non-technical business users analyzing financial or sales data.
+
+#### 🏗️ ArtEco App
+> Flutter app enabling architecture students to explore 3D models using WebXR and Firebase Auth. Designed intuitive card-based UI for better model visualization.
 
 #### 📄 CPWD Tender Scraper
-> Automated script to scrape public tender data from [etender.cpwd.gov.in](https://etender.cpwd.gov.in/) and save to CSV using Python & Playwright.
+> Automated scraping of new tenders from the CPWD portal using Playwright and saved to CSV—ideal for quick tender analysis.
 
 #### 🔊 News Summary & TTS App
-> Built a Hindi/English news summarizer with sentiment analysis and text-to-speech, deployed on Hugging Face Spaces.
+> Summarizes news in Hindi/English, analyzes sentiment, and converts it to audio using Text-to-Speech (TTS) on Hugging Face Spaces.
 
 ---
 
-### 📚 Learning & Exploring
+### 📚 Currently Learning
 
-- 📖 Currently diving deep into **LangChain**, **LangGraph**, and **Workflow Orchestration**
-- 📱 Exploring **React Native** and publishing apps to the Play Store
-- 🧠 Learning about **GitOps**, **LLM fine-tuning**, and **data pipelines**
+- 🛠️ **LangChain** and **LangGraph** for AI workflow automation
+- 📱 React Native & mobile publishing workflows
+- 🧠 GitOps, AWS Cloud skills, and fine-tuning LLMs
 
 ---
 
@@ -57,10 +62,10 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/kiran-immadi)
 - 🌐 [GitHub](https://github.com/kiranimmadi2)
-- 📫 Email: immadikiran@gmail.com
+- 📧 Email: kiranimmadi2@gmail.com
 
 ---
 
 <p align="center">
-  🚀 *Always building, always learning...*
+  🚀 *Keep building. Keep learning. Keep shipping.* 🚀
 </p>
