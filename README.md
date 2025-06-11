@@ -52,15 +52,6 @@ Aspiring software engineer with a solid understanding of AI and software develop
 
 
 
-### 📚 Certifications
-
-- 📘 [Flutter Bootcamp with Dart – Udemy](https://www.udemy.com/certificate/UC-74f2ffd9-3e35-4a86-a047-9cfab19c6f1d/)
-- 📘 [Supervised Machine Learning – Coursera](https://coursera.org/share/55a3ec3010162964b26df1cbf246cc4e)
-- 📘 [Complete Data Science Bootcamp – Udemy](https://www.udemy.com/share/101WeA3%40XPmif8MxCel680kDqPhY_54jfCttJdf_RL4ubUQB3RgLkCMKbhosBujWyvVM_8K94A%3D%3D/)
-- 📘 [Crash Course in Machine Learning – Great Learning](https://www.mygreatlearning.com/certificate/YFBNDSNY)
-
----
-
 ### 🔭 Currently Learning
 
 - 📦 LangChain & LangGraph for GenAI automation
