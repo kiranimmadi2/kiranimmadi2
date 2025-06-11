@@ -45,12 +45,8 @@
 
 ### 🌟 About Me
 
-- 🎓 Final-year B.Tech CSE student @ Dayananda Sagar University
-- 📌 Specializing in **Artificial Intelligence & Machine Learning** (CGPA: 7.59)
-- 🛠️ Experience in **Flutter**, **Firebase**, and **GenAI tools** like LangChain
-- 📲 Built apps in education, legal-tech, and FinTech domains
-- 🧠 Passionate about learning, teamwork, and building useful tech
-- 📍 Based in Bangalore, open to internships and collaborations
+Aspiring software engineer with a solid understanding of AI and software development. Quick learner with strong problem-solving skills and a commitment to building high-quality, efficient solutions. I enjoy collaborating with cross-functional teams and adapt rapidly to new tools and technologies.
+
 
 ---
 
