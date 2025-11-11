@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Immadi</h1>
-<h3 align="center">Aspiring Software Developer | AI Enthusiast | Final Year CSE Student</h3>
+<h3 align="center">Aspiring Software Developer | AI Enthusiast </h3>
 
 <p align="center">
   <!-- Programming Languages -->
